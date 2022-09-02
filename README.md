@@ -1,2 +1,2 @@
-# estudos-cubos-academy
+# Hello World
 Estudos da cubos academy
